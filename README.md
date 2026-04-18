@@ -10,9 +10,9 @@ I enjoy building software systems, backend applications, and learning how things
 - SQL Server
 - Networking basics
 
-## 🌟 Projects
-- Bank System (C++, Console)
-- Chat Server (Java sockets)
+## 🌟 Featured Projects
+- Bank System (C++, OOP, Console)
+- Multi-Client Chat (Java sockets)
 - Tic-Tac-Toe Game (C#, WindowsForms)
 
 ## 🎓 Education
