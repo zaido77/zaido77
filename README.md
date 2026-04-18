@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zaid Irsheid👋
 
-<!--
-**zaido77/zaido77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student | Software Developer
 
-Here are some ideas to get you started:
+I enjoy building software systems, backend applications, and learning how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C#, C++, Java
+- .NET Framework
+- SQL Server
+- Networking basics
+
+## 🌟 Projects
+- Bank System (C++, Console)
+- Chat Server (Java sockets)
+- Tic-Tac-Toe Game (C#, WindowsForms)
+
+## 🎓 Education
+Canadian University Dubai – Computer Science
+
+## 📫 Contact
+Email: irsheid.zaid1@gmail.com  
+LinkedIn: www.linkedin.com/in/zaid-irsheid
