@@ -12,8 +12,9 @@ I enjoy building software systems, backend applications, and learning how things
 
 ## 🌟 Featured Projects
 - Bank System (C++, OOP, Console)
-- Multi-Client Chat (Java sockets)
 - Tic-Tac-Toe Game (C#, WindowsForms)
+- Multi-Client Chat (Java sockets)
+- Linux File Monitoring & Backup System
 
 ## 🎓 Education
 Canadian University Dubai – Computer Science
