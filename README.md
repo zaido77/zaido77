@@ -11,9 +11,9 @@ I enjoy building software systems, backend applications, and learning how things
 - Networking basics
 
 ## 🌟 Featured Projects
-- Bank System (C++, OOP, Console)
+- Car Rental System (C#, WindowsForms, 3-Tier Architecture, SQL Server Database, .NET Framework)
 - Tic-Tac-Toe Game (C#, WindowsForms)
-- Multi-Client Chat (Java sockets)
+- Bank System (C++, OOP, Console)
 - Linux File Monitoring & Backup System
 
 ## 🎓 Education
